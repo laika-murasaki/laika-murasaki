@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laika-murasaki
 - 👀 I’m interested in minecraft
-- 🌱 I’m currently learning nextjs
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on hynse
 - 📫 How to reach me (discord  Laika#2002)
 
