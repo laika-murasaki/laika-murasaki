@@ -2,7 +2,7 @@
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on hynse
-- 📫 How to reach me (discord  Laika#2424)
+- 📫 How to reach me (discord  Laika#2002)
 
 <!---
 laika-murasaki/laika-murasaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
