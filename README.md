@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @laika-murasaki
-- 👀 I’m interested in minecraft
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on hynse
-- 📫 How to reach me (discord  Laika#2002)
-
-<!---
-laika-murasaki/laika-murasaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![clean](https://user-images.githubusercontent.com/111684641/212227707-b1251f93-f56f-4e90-bdbf-525df0d259df.png)
